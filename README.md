@@ -1,4 +1,4 @@
-# dark-mode-toogle-bookmark
+# Dark Mode Toogle [Bookmark]
 Toggle Dark / Light mode for any website directly clicking on a Bookmark. This is the most reliable code for applying Dark mode on Github as it inverts colors of the page instead of changing backgrounds and font colors.
 
 - Works perfectly for Google products (Calendar, Docs, Sheet, Ads, Analytics, Tag Manager), Facebook, Instagram, etc. 
