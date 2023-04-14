@@ -9,8 +9,8 @@ Toggle Dark / Light mode for any website directly clicking on a Bookmark. This i
 
 ## How to use
 1. Download and unzip the file
-2. Import dark_mode_toggle.html in your internet browser favorites.
-3. OR copy the code of "dark_mode_toggle.js" file and paste it in a bookmark of your internet browser. 
+2. Import `dark_mode_toggle.html` in your internet browser favorites.
+3. OR copy the code of `dark_mode_toggle.js` file and paste it in a bookmark of your internet browser. 
 ![image](https://user-images.githubusercontent.com/45925914/232036519-10dd8c27-2b9c-472a-ba50-9fdf61c35ef5.png)
 2. Click on the bookmark to toggle webpage dark/light mode.
 
