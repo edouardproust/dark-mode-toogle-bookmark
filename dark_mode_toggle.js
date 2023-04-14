@@ -1,5 +1,5 @@
 javascript:(function(){
-  const DARK_PERCENT = 88;
+  const DARK_PERCENT = 90;
   const head = document.getElementsByTagName('head')[0];
   const style = document.createElement('style');
   window.dark_counter = window.dark_counter ?? 0;
